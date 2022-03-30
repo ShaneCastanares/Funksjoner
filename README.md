@@ -1,0 +1,2 @@
+# Funksjoner
+svar til Funksjoner
